@@ -130,7 +130,7 @@ Dropping down to R and converting pdfs to sas tables and text
     |_|
     */
 
-    /* you can wrap thi in a macro */
+    /* you can wrap this in a macro */
 
     libname sd1 "d:/sd1";
 
